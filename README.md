@@ -13,3 +13,12 @@
     <li>한 줄이 끝날때 마다 종료를 의미하는 ;(세미콜론) </li>
 </ol>
 
+<h4>2장 Hello God Of Java</h4>
+
+<ol>
+    <li>자바 설치하기</li>
+    <li>컴파일 및 실행방법</li>
+    <li>System.out.print 와 System.out.println</li>
+    <li>각종 주석</li>
+</ol>
+
