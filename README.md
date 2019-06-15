@@ -1,7 +1,5 @@
 # JAVA-GOD-BOOK study
 
-<b>start</b> 2019-05-18, 10:10
-
 <hr />
 
 <h4>1장 프로그래밍이란 무엇인가?</h4>
@@ -60,5 +58,8 @@
     <li>if 사용법</li>
     <li>if else 사용법</li>
     <li>if를 조금 더 다양하게 사용해보자</li>
-    <li></li>
+    <li>자바의 switch와 부려는 스위치는 별 상관 없다</li>
+    <li>반복문이라구요?</li>
+    <li>가장 확실한 for 루프</li>    
+    <li>많이 사용 안 하는 label</li>    
 </ol>

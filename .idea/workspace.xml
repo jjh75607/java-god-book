@@ -19,7 +19,20 @@
     <favorites_list name="java-god-book" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/mission/InterestManager.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="399">
+              <caret line="19" column="16" lean-forward="true" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="16" />
+              <folding>
+                <element signature="e#536#537#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -62,10 +75,13 @@
         <option value="$PROJECT_DIR$/src/ContolIf.java" />
         <option value="$PROJECT_DIR$/src/ControlIf.java" />
         <option value="$PROJECT_DIR$/src/ControlIfElse.java" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/src/aasdasd.cpp" />
         <option value="$PROJECT_DIR$/src/ControlIfAndOr.java" />
         <option value="$PROJECT_DIR$/src/ControlElseIf.java" />
+        <option value="$PROJECT_DIR$/src/ControlSwitch.java" />
+        <option value="$PROJECT_DIR$/src/ControlWhile.java" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/src/mission/InterestManager.java" />
       </list>
     </option>
   </component>
@@ -85,6 +101,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -97,12 +115,16 @@
               <item name="java-god-book" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="java-god-book" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-god-book" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="mission" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -132,14 +154,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ControlIfAndOr">
-    <configuration name="Calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Calculator" />
-      <module name="java-god-book" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.InterestManager">
     <configuration name="ControlIf" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ControlIf" />
       <module name="java-god-book" />
@@ -161,27 +176,40 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OperatorCasting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OperatorCasting" />
+    <configuration name="ControlSwitch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ControlSwitch" />
       <module name="java-god-book" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="InterestManager" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="mission.InterestManager" />
+      <module name="java-god-book" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="mission.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="Application.OperatorCasting" />
-      <item itemvalue="Application.Calculator" />
       <item itemvalue="Application.ControlIf" />
       <item itemvalue="Application.ControlIfElse" />
       <item itemvalue="Application.ControlIfAndOr" />
+      <item itemvalue="Application.ControlSwitch" />
+      <item itemvalue="Application.InterestManager" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.InterestManager" />
+        <item itemvalue="Application.ControlSwitch" />
         <item itemvalue="Application.ControlIfAndOr" />
         <item itemvalue="Application.ControlIfElse" />
         <item itemvalue="Application.ControlIf" />
-        <item itemvalue="Application.Calculator" />
-        <item itemvalue="Application.OperatorCasting" />
       </list>
     </recent_temporary>
   </component>
@@ -203,11 +231,12 @@
       <workItem from="1558937919212" duration="6000" />
       <workItem from="1559032131625" duration="7000" />
       <workItem from="1559176099541" duration="99000" />
+      <workItem from="1560577251922" duration="5705000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="33956000" />
+    <option name="totallyTimeSpent" value="39661000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -219,9 +248,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="633" y="0" width="653" height="687" extended-state="0" />
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49644127" visible="true" weight="0.5682968" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49644127" weight="0.28304946" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -230,14 +260,14 @@
       <window_info id="Favorites" order="6" sideWeight="0.5035587" side_tool="true" weight="0.22753036" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3291815" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32857144" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49959514" weight="0.3291815" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49878544" weight="0.32740214" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49878544" weight="0.3267857" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50121456" side_tool="true" weight="0.32740214" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.3291815" />
       <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
@@ -459,16 +489,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="329">
-            <caret line="61" column="27" selection-start-line="61" selection-start-column="27" selection-end-line="61" selection-end-column="27" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/aasdasd.cpp" />
     <entry file="file://$PROJECT_DIR$/src/ControlIfAndOr.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -488,6 +508,36 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="189">
           <caret line="9" column="34" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ControlSwitch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="9" column="11" lean-forward="true" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ControlWhile.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="390">
+            <caret line="63" column="25" selection-start-line="63" selection-start-column="25" selection-end-line="63" selection-end-column="25" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mission/InterestManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="19" column="16" lean-forward="true" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="16" />
+          <folding>
+            <element signature="e#536#537#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
