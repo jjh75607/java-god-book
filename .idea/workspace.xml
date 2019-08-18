@@ -1,32 +1,68 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="84a013e5-7aba-4590-9e96-70ee0820de25" name="Default Changelist" comment="">
+    <list default="true" id="5721af3a-04aa-4f89-bd4a-94224d799ac2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-god-book/Calculator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-god-book/Car.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-god-book/CarManager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-god-book/ControlElseIf.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-god-book/ControlIf.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-god-book/ControlIfAndOr.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-god-book/ControlIfElse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-god-book/ControlSwitch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-god-book/HelloGodOfJava.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-god-book/OperatorCasting.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-god-book/OperatorComparision.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-god-book/OperatorComplement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-god-book/OperatorCompound.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-god-book/OperatorConditional.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-god-book/OperatorConditionalTriple.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-god-book/OperatorIncrement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-god-book/OperatorMultipleDivision.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-god-book/OperatorPlusMinus.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-god-book/OperatorRelational.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-god-book/OperatorRemainder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-god-book/OperatorTilde.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-god-book/OperatorUnary.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-god-book/PrimitiveTypes.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-god-book/PrimitiveTypesSecond.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-god-book/mission/InterestManager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-god-book/mission/ManageHeight.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/vo1/Calculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/vo1/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CarManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/vo1/CarManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ControlElseIf.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/vo1/ControlElseIf.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ControlIf.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/vo1/ControlIf.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ControlIfAndOr.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/vo1/ControlIfAndOr.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ControlIfElse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/vo1/ControlIfElse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ControlSwitch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/vo1/ControlSwitch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HelloGodOfJava.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/vo1/HelloGodOfJava.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OperatorCasting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/vo1/OperatorCasting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OperatorComparision.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/vo1/OperatorComparision.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OperatorComplement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/vo1/OperatorComplement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OperatorCompound.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/vo1/OperatorCompound.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OperatorConditional.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/vo1/OperatorConditional.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OperatorConditionalTriple.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/vo1/OperatorConditionalTriple.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OperatorIncrement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/vo1/OperatorIncrement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OperatorMultipleDivision.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/vo1/OperatorMultipleDivision.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OperatorPlusMinus.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/vo1/OperatorPlusMinus.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OperatorRelational.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/vo1/OperatorRelational.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OperatorRemainder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/vo1/OperatorRemainder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OperatorTilde.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/vo1/OperatorTilde.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OperatorUnary.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/vo1/OperatorUnary.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PrimitiveTypes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/vo1/PrimitiveTypes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PrimitiveTypesSecond.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/vo1/PrimitiveTypesSecond.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mission/InterestManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/vo1/mission/InterestManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mission/ManageHeight.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/vo1/mission/ManageHeight.java" afterDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="DefaultGradleProjectSettings">
-    <option name="testRunner" value="GRADLE" />
-    <option name="delegatedBuild" value="true" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="61" column="21" lean-forward="true" selection-start-line="61" selection-start-column="21" selection-end-line="61" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -38,54 +74,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/src/mission/ManageHeight.java" />
-        <option value="$PROJECT_DIR$/README.md" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="240" />
-    <option name="y" value="-9" />
-    <option name="width" value="1890" />
-    <option name="height" value="960" />
-  </component>
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="java-god-book" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java-god-book" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java-god-book" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java-god-book" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java-god-book" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java-god-book" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="mission" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="PackagesPane" />
-    </panes>
+  <component name="ProjectId" id="1PaO4VMF7ng90iErXxZT7uSVeQD" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -99,13 +93,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
-    <configuration name="ManageHeight" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="mission.ManageHeight" />
+  <component name="RunManager" selected="Application.ReferenceStatic">
+    <configuration name="ReferenceReturn" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="vo1.ReferenceReturn" />
       <module name="java-god-book" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="mission.*" />
+          <option name="PATTERN" value="vo1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReferenceStatic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="vo1.ReferenceStatic" />
+      <module name="java-god-book" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="vo1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,7 +122,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ManageHeight" />
+        <item itemvalue="Application.ReferenceStatic" />
+        <item itemvalue="Application.ReferenceReturn" />
       </list>
     </recent_temporary>
   </component>
@@ -124,60 +132,23 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="84a013e5-7aba-4590-9e96-70ee0820de25" name="Default Changelist" comment="" />
-      <created>1564206486622</created>
+      <changelist id="5721af3a-04aa-4f89-bd4a-94224d799ac2" name="Default Changelist" comment="" />
+      <created>1566108549267</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1564206486622</updated>
+      <updated>1566108549267</updated>
     </task>
     <servers />
   </component>
-  <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
-    <editor active="true" />
-    <layout>
-      <window_info id="Image Layers" />
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Capture Tool" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24979724" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32857144" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Maven" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-    </layout>
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/mission/ManageHeight.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="25" lean-forward="true" selection-start-line="4" selection-end-line="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="61" column="21" lean-forward="true" selection-start-line="61" selection-start-column="21" selection-end-line="61" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
