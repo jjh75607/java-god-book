@@ -2,61 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5721af3a-04aa-4f89-bd4a-94224d799ac2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-god-book/Calculator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-god-book/Car.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-god-book/CarManager.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-god-book/ControlElseIf.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-god-book/ControlIf.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-god-book/ControlIfAndOr.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-god-book/ControlIfElse.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-god-book/ControlSwitch.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-god-book/HelloGodOfJava.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-god-book/OperatorCasting.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-god-book/OperatorComparision.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-god-book/OperatorComplement.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-god-book/OperatorCompound.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-god-book/OperatorConditional.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-god-book/OperatorConditionalTriple.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-god-book/OperatorIncrement.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-god-book/OperatorMultipleDivision.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-god-book/OperatorPlusMinus.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-god-book/OperatorRelational.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-god-book/OperatorRemainder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-god-book/OperatorTilde.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-god-book/OperatorUnary.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-god-book/PrimitiveTypes.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-god-book/PrimitiveTypesSecond.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-god-book/mission/InterestManager.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-god-book/mission/ManageHeight.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/vo1/Calculator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/vo1/Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CarManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/vo1/CarManager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ControlElseIf.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/vo1/ControlElseIf.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ControlIf.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/vo1/ControlIf.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ControlIfAndOr.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/vo1/ControlIfAndOr.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ControlIfElse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/vo1/ControlIfElse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ControlSwitch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/vo1/ControlSwitch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HelloGodOfJava.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/vo1/HelloGodOfJava.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OperatorCasting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/vo1/OperatorCasting.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OperatorComparision.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/vo1/OperatorComparision.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OperatorComplement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/vo1/OperatorComplement.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OperatorCompound.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/vo1/OperatorCompound.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OperatorConditional.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/vo1/OperatorConditional.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OperatorConditionalTriple.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/vo1/OperatorConditionalTriple.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OperatorIncrement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/vo1/OperatorIncrement.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OperatorMultipleDivision.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/vo1/OperatorMultipleDivision.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OperatorPlusMinus.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/vo1/OperatorPlusMinus.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OperatorRelational.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/vo1/OperatorRelational.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OperatorRemainder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/vo1/OperatorRemainder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OperatorTilde.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/vo1/OperatorTilde.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OperatorUnary.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/vo1/OperatorUnary.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PrimitiveTypes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/vo1/PrimitiveTypes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PrimitiveTypesSecond.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/vo1/PrimitiveTypesSecond.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/mission/InterestManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/vo1/mission/InterestManager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/mission/ManageHeight.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/vo1/mission/ManageHeight.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-god-book/vo1/ReferenceStatic.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-god-book/vo1/ReferenceStatic.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -93,7 +41,33 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ReferenceStatic">
+  <component name="RunManager" selected="Application.MethodVarargs">
+    <configuration name="MethodVarargs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="vo1.MethodVarargs" />
+      <module name="java-god-book" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="vo1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReferencePass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="vo1.ReferencePass" />
+      <module name="java-god-book" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="vo1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ReferenceReturn" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="vo1.ReferenceReturn" />
       <module name="java-god-book" />
@@ -120,8 +94,24 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="StaticBlockCheck" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="vo1.StaticBlockCheck" />
+      <module name="java-god-book" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="vo1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MethodVarargs" />
+        <item itemvalue="Application.ReferencePass" />
+        <item itemvalue="Application.StaticBlockCheck" />
         <item itemvalue="Application.ReferenceStatic" />
         <item itemvalue="Application.ReferenceReturn" />
       </list>
@@ -145,7 +135,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
