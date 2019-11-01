@@ -4,6 +4,41 @@
     <list default="true" id="5721af3a-04aa-4f89-bd4a-94224d799ac2" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/vo1/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/vo1/chapter1ToChapter9/Calculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/vo1/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/vo1/chapter1ToChapter9/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/vo1/CarManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/vo1/chapter1ToChapter9/CarManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/vo1/ControlElseIf.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/vo1/chapter1ToChapter9/ControlElseIf.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/vo1/ControlIf.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/vo1/chapter1ToChapter9/ControlIf.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/vo1/ControlIfAndOr.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/vo1/chapter1ToChapter9/ControlIfAndOr.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/vo1/ControlIfElse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/vo1/chapter1ToChapter9/ControlIfElse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/vo1/ControlSwitch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/vo1/chapter1ToChapter9/ControlSwitch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/vo1/HelloGodOfJava.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/vo1/chapter1ToChapter9/HelloGodOfJava.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/vo1/MemberDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/vo1/chapter1ToChapter9/MemberDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/vo1/MethodVarargs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/vo1/chapter1ToChapter9/MethodVarargs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/vo1/OperatorCasting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/vo1/chapter1ToChapter9/OperatorCasting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/vo1/OperatorComparision.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/vo1/chapter1ToChapter9/OperatorComparision.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/vo1/OperatorComplement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/vo1/chapter1ToChapter9/OperatorComplement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/vo1/OperatorCompound.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/vo1/chapter1ToChapter9/OperatorCompound.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/vo1/OperatorConditional.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/vo1/chapter1ToChapter9/OperatorConditional.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/vo1/OperatorConditionalTriple.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/vo1/chapter1ToChapter9/OperatorConditionalTriple.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/vo1/OperatorIncrement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/vo1/chapter1ToChapter9/OperatorIncrement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/vo1/OperatorMultipleDivision.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/vo1/chapter1ToChapter9/OperatorMultipleDivision.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/vo1/OperatorPlusMinus.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/vo1/chapter1ToChapter9/OperatorPlusMinus.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/vo1/OperatorRelational.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/vo1/chapter1ToChapter9/OperatorRelational.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/vo1/OperatorRemainder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/vo1/chapter1ToChapter9/OperatorRemainder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/vo1/OperatorTilde.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/vo1/chapter1ToChapter9/OperatorTilde.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/vo1/OperatorUnary.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/vo1/chapter1ToChapter9/OperatorUnary.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/vo1/PrimitiveTypes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/vo1/chapter1ToChapter9/PrimitiveTypes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/vo1/PrimitiveTypesSecond.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/vo1/chapter1ToChapter9/PrimitiveTypesSecond.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/vo1/ReferenceConstructor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/vo1/chapter1ToChapter9/ReferenceConstructor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/vo1/ReferenceDefault.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/vo1/chapter1ToChapter9/ReferenceDefault.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/vo1/ReferenceOverloading.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/vo1/chapter1ToChapter9/ReferenceOverloading.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/vo1/ReferencePass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/vo1/chapter1ToChapter9/ReferencePass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/vo1/ReferenceReturn.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/vo1/chapter1ToChapter9/ReferenceReturn.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/vo1/ReferenceStatic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/vo1/chapter1ToChapter9/ReferenceStatic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/vo1/ReferenceString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/vo1/chapter1ToChapter9/ReferenceString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/vo1/StaticBlock.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/vo1/chapter1ToChapter9/StaticBlock.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/vo1/StaticBlockCheck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/vo1/chapter1ToChapter9/StaticBlockCheck.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -55,11 +90,11 @@
       </method>
     </configuration>
     <configuration name="MethodVarargs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="vo1.MethodVarargs" />
+      <option name="MAIN_CLASS_NAME" value="vo1.chapter1ToChapter9.MethodVarargs" />
       <module name="java-god-book" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="vo1.*" />
+          <option name="PATTERN" value="vo1.chapter1ToChapter9.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -68,11 +103,11 @@
       </method>
     </configuration>
     <configuration name="ReferencePass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="vo1.ReferencePass" />
+      <option name="MAIN_CLASS_NAME" value="vo1.chapter1ToChapter9.ReferencePass" />
       <module name="java-god-book" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="vo1.*" />
+          <option name="PATTERN" value="vo1.chapter1ToChapter9.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -81,11 +116,11 @@
       </method>
     </configuration>
     <configuration name="ReferenceStatic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="vo1.ReferenceStatic" />
+      <option name="MAIN_CLASS_NAME" value="vo1.chapter1ToChapter9.ReferenceStatic" />
       <module name="java-god-book" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="vo1.*" />
+          <option name="PATTERN" value="vo1.chapter1ToChapter9.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -94,11 +129,11 @@
       </method>
     </configuration>
     <configuration name="StaticBlockCheck" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="vo1.StaticBlockCheck" />
+      <option name="MAIN_CLASS_NAME" value="vo1.chapter1ToChapter9.StaticBlockCheck" />
       <module name="java-god-book" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="vo1.*" />
+          <option name="PATTERN" value="vo1.chapter1ToChapter9.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
