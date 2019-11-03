@@ -1,4 +1,4 @@
-package vo1.mission;
+package vo1.mission.none;
 
 public class Student {
 

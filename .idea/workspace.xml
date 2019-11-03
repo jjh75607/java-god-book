@@ -3,43 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="5721af3a-04aa-4f89-bd4a-94224d799ac2" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-god-book/vo1/Calculator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-god-book/vo1/Car.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-god-book/vo1/CarManager.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-god-book/vo1/ControlElseIf.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-god-book/vo1/ControlIf.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-god-book/vo1/ControlIfAndOr.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-god-book/vo1/ControlIfElse.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-god-book/vo1/ControlSwitch.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-god-book/vo1/HelloGodOfJava.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-god-book/vo1/MemberDTO.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-god-book/vo1/MethodVarargs.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-god-book/vo1/OperatorCasting.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-god-book/vo1/OperatorComparision.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-god-book/vo1/OperatorComplement.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-god-book/vo1/OperatorCompound.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-god-book/vo1/OperatorConditional.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-god-book/vo1/OperatorConditionalTriple.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-god-book/vo1/OperatorIncrement.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-god-book/vo1/OperatorMultipleDivision.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-god-book/vo1/OperatorPlusMinus.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-god-book/vo1/OperatorRelational.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-god-book/vo1/OperatorRemainder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-god-book/vo1/OperatorTilde.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-god-book/vo1/OperatorUnary.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-god-book/vo1/PrimitiveTypes.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-god-book/vo1/PrimitiveTypesSecond.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-god-book/vo1/ReferenceConstructor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-god-book/vo1/ReferenceDefault.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-god-book/vo1/ReferenceOverloading.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-god-book/vo1/ReferencePass.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-god-book/vo1/ReferenceReturn.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-god-book/vo1/ReferenceStatic.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-god-book/vo1/ReferenceString.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-god-book/vo1/StaticBlock.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-god-book/vo1/StaticBlockCheck.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/vo1/chapter10/c/inheritance/Parent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/vo1/chapter10/c/inheritance/Parent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/vo1/mission/InterestManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/vo1/mission/none/InterestManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/vo1/mission/ManageHeight.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/vo1/mission/none/ManageHeight.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/vo1/mission/ManageStudent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/vo1/mission/none/ManageStudent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/vo1/mission/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/vo1/mission/none/Student.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -63,7 +30,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -118,11 +85,11 @@
       </method>
     </configuration>
     <configuration name="ManageStudent" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="vo1.mission.ManageStudent" />
+      <option name="MAIN_CLASS_NAME" value="vo1.mission.none.ManageStudent" />
       <module name="java-god-book" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="vo1.mission.*" />
+          <option name="PATTERN" value="vo1.mission.none.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
