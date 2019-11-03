@@ -105,4 +105,9 @@
 
 <ol>
     <li>자바에서 상속이란?</li>
+    <li>상속과 생성자</li>
+    <li>메소드 overrindg</li>
+    <li>참조 자료형의 형 변환</li>
+    <li>polymorphism</li>
+    <li>자식 클래스에서 할 수 있는 일들을 다시 정리해보자</li>
 </ol>

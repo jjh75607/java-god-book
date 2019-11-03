@@ -1,7 +1,7 @@
 package vo1.chapter10.c.inheritance;
 
 public class Parent {
-
+//
     public Parent() {
         System.out.println("Parent constructor");
     }
