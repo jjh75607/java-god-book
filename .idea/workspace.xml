@@ -3,10 +3,11 @@
   <component name="ChangeListManager">
     <list default="true" id="5721af3a-04aa-4f89-bd4a-94224d799ac2" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/vo1/mission/InterestManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/vo1/mission/none/InterestManager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/vo1/mission/ManageHeight.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/vo1/mission/none/ManageHeight.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/vo1/mission/ManageStudent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/vo1/mission/none/ManageStudent.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/vo1/mission/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/vo1/mission/none/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-god-book/vo1/mission/InterestManager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-god-book/vo1/mission/ManageHeight.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-god-book/vo1/mission/ManageStudent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-god-book/vo1/mission/Student.class" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -30,7 +31,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
+    <property name="settings.editor.selected.configurable" value="MTConfigurable" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -44,7 +45,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.InheritancePoly">
+  <component name="RunManager" selected="Application.APICheck">
+    <configuration name="APICheck" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="vo1.chapter11.APICheck" />
+      <module name="java-god-book" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="vo1.chapter11.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="InheritanceOverriding" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="vo1.chapter10.c.inheritance.InheritanceOverriding" />
       <module name="java-god-book" />
@@ -97,26 +111,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MethodVarargs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="vo1.chapter1ToChapter9.MethodVarargs" />
-      <module name="java-god-book" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="vo1.chapter1ToChapter9.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.APICheck" />
         <item itemvalue="Application.InheritancePoly" />
         <item itemvalue="Application.InheritanceOverriding" />
         <item itemvalue="Application.InheritancePrint" />
         <item itemvalue="Application.ManageStudent" />
-        <item itemvalue="Application.MethodVarargs" />
       </list>
     </recent_temporary>
   </component>
