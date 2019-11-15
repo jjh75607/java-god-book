@@ -121,3 +121,13 @@
     <li>deprecated라고 표시되어 있는 것은 뭐야?</li>
     <li>header와 footer에 있는 링크들은 뭘까?</li>
 </ol>
+
+<h4>12장 모든 클래스의 부모 클래스는 Object 에요</h4>
+
+<ol>
+    <li>모든 자바 클래스의 부모인 java.lang.Object 클래스</li>
+    <li>Object 클래스에서 제공하는 메소드들의 종류는?</li>
+    <li>Object 클래스에서 가장 많이 쓰이는 toString() 메소드</li>
+    <li>객체는 ==만으로 같은지 확인이 안 되므로, equals()를 사용하죠</li>
+    <li>객체의 고유값을 나타내는 hashcode()</li>
+</ol>
