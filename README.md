@@ -137,9 +137,24 @@
 <ol>
     <li>메소드 내용이 없는 interface</li>
     <li>인터페이스를 직접 만들어보자</li>
-    <li>일부 완성되어 있는 abstract 클래</li>
+    <li>일부 완성되어 있는 abstract 클래스</li>
     <li>나는 내 자식들에게 하나도 안 물려 줄꺼여</li>
     <li>enum 클래스는 상수의 집합도 있다</li>
     <li>enum을 보다 제대로 사용하기</li>
     <li>enum 클래스의 부모는 무조건 java.lang.Enum이어야 해요</li>
+</ol>
+
+<h4>14장 다 배운 것 같지만, 예외라는 중요한 것이 있어요</h4>
+
+<ol>
+    <li>자바에서 매우 중요한 예외</li>
+    <li>try-catch는 짝이다</li>
+    <li>try-catch를 사용하면서 처음에 적응하기 힘든 변수 선언</li>
+    <li>finally야~ 넌 무슨 일이 생겨도 반드시 실행해야 돼</li>
+    <li>두 개 이상의 catch</li>
+    <li>예외의 종류는 세 가지다</li>
+    <li>모드 예외의 할아버지는 java.lang.Throwable 클래스다</li>
+    <li>난 예외를 던질 거니까 throws라고 써 놓을께 </li>
+    <li>내가 예외를 만들 수도 있다구?</li>
+    <li>자바 예외 처리 전략</li>
 </ol>
