@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="5721af3a-04aa-4f89-bd4a-94224d799ac2" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -46,13 +45,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.CustomException">
-    <configuration name="CustomException" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="vo1.chapter14.CustomException" />
+  <component name="RunManager" selected="Application.Calculator">
+    <configuration name="Calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="vo1.mission.chapter14.Calculator" />
       <module name="java-god-book" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="vo1.chapter14.*" />
+          <option name="PATTERN" value="vo1.mission.chapter14.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -60,8 +59,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ExceptionSample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="vo1.chapter14.ExceptionSample" />
+    <configuration name="CustomException" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="vo1.chapter14.CustomException" />
       <module name="java-god-book" />
       <extension name="coverage">
         <pattern>
@@ -114,11 +113,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Calculator" />
         <item itemvalue="Application.CustomException" />
         <item itemvalue="Application.ThrowableSample" />
         <item itemvalue="Application.MultiCatchSample" />
         <item itemvalue="Application.ExceptionVariable" />
-        <item itemvalue="Application.ExceptionSample" />
       </list>
     </recent_temporary>
   </component>
