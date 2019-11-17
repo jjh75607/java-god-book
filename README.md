@@ -131,3 +131,15 @@
     <li>객체는 ==만으로 같은지 확인이 안 되므로, equals()를 사용하죠</li>
     <li>객체의 고유값을 나타내는 hashcode()</li>
 </ol>
+
+<h4>13장 인터페이스와 추상클래스, enum</h4>
+
+<ol>
+    <li>메소드 내용이 없는 interface</li>
+    <li>인터페이스를 직접 만들어보자</li>
+    <li>일부 완성되어 있는 abstract 클래</li>
+    <li>나는 내 자식들에게 하나도 안 물려 줄꺼여</li>
+    <li>enum 클래스는 상수의 집합도 있다</li>
+    <li>enum을 보다 제대로 사용하기</li>
+    <li>enum 클래스의 부모는 무조건 java.lang.Enum이어야 해요</li>
+</ol>

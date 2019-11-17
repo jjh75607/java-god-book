@@ -14,6 +14,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
@@ -41,13 +43,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ToString">
-    <configuration name="APICheck" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="vo1.chapter11.APICheck" />
+  <component name="RunManager" selected="Application.OverTimeManager3">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="vo1.Main" />
       <module name="java-god-book" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="vo1.chapter11.*" />
+          <option name="PATTERN" value="vo1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -55,12 +57,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InheritanceOverriding" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="vo1.chapter10.c.inheritance.InheritanceOverriding" />
+    <configuration name="OverTimeManager" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="vo1.chapter13.OverTimeManager" />
       <module name="java-god-book" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="vo1.chapter10.c.inheritance.*" />
+          <option name="PATTERN" value="vo1.chapter13.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -68,12 +70,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InheritancePoly" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="vo1.chapter10.c.inheritance.InheritancePoly" />
+    <configuration name="OverTimeManager2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="vo1.chapter13.OverTimeManager2" />
       <module name="java-god-book" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="vo1.chapter10.c.inheritance.*" />
+          <option name="PATTERN" value="vo1.chapter13.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -81,12 +83,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InheritancePrint" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="vo1.chapter10.c.inheritance.InheritancePrint" />
+    <configuration name="OverTimeManager3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="vo1.chapter13.OverTimeManager3" />
       <module name="java-god-book" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="vo1.chapter10.c.inheritance.*" />
+          <option name="PATTERN" value="vo1.chapter13.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,11 +111,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.OverTimeManager3" />
+        <item itemvalue="Application.OverTimeManager2" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.OverTimeManager" />
         <item itemvalue="Application.ToString" />
-        <item itemvalue="Application.APICheck" />
-        <item itemvalue="Application.InheritancePoly" />
-        <item itemvalue="Application.InheritanceOverriding" />
-        <item itemvalue="Application.InheritancePrint" />
       </list>
     </recent_temporary>
   </component>
