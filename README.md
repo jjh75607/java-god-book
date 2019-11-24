@@ -158,3 +158,18 @@
     <li>내가 예외를 만들 수도 있다구?</li>
     <li>자바 예외 처리 전략</li>
 </ol>
+
+<h4>15장 String</h4>
+
+<ol>
+    <li>자바에서 가장 많이 사용하는 String 클래스</li>
+    <li>String의 생성자에는 이런 것들이 있다</li>
+    <li>String 문자열을 byte로 변환하기</li>
+    <li>객체의 널 체크는 반드시 필요합니다.</li>
+    <li>String의 내용을 비교하고 검색하는 메소드들도 있어요</li>
+    <li>String 내에서 위치를 찾아내는 방법은 여러 가지에요</li>
+    <li>String의 값의 일부를 추출하기 위한 메소드들은 얘네들이다.</li>
+    <li>String 값을 바꾸는 메소드들도 있어요</li>
+    <li>절대로 사용하면 안 되는 메소드가 하나 있어요</li>
+    <li>immutable한 String의 단점을 보완하는 클래스에는 StringBuffer와 StringBuilder가 있다</li>
+</ol>
