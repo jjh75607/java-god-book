@@ -173,3 +173,13 @@
     <li>절대로 사용하면 안 되는 메소드가 하나 있어요</li>
     <li>immutable한 String의 단점을 보완하는 클래스에는 StringBuffer와 StringBuilder가 있다</li>
 </ol>
+
+<h4>16장 클래스 안에 클래스가 들어갈 수도 있구나</h4>
+
+<ol>
+    <li>클래스 안의 클래스</li>
+    <li>static nested 클래스의 특징</li>
+    <li>내부 클래스와 익명 클래</li>
+    <li>Nested 클래스의 특징은 꼭 알아야 한다</li>
+   
+</ol>

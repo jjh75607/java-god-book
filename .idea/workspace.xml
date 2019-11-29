@@ -3,8 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="5721af3a-04aa-4f89-bd4a-94224d799ac2" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,26 +29,20 @@
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="1" id="Add" />
   </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Application.UseStringMethods">
+  <component name="RunManager" selected="Application.NestedSample">
     <configuration name="Calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="vo1.mission.chapter14.Calculator" />
       <module name="java-god-book" />
@@ -62,12 +56,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CustomException" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="vo1.chapter14.CustomException" />
+    <configuration name="NestedSample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="vo1.chapter16.NestedSample" />
       <module name="java-god-book" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="vo1.chapter14.*" />
+          <option name="PATTERN" value="vo1.chapter16.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,13 +110,25 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.NestedSample" />
         <item itemvalue="Application.UseStringMethods" />
         <item itemvalue="Application.StringCompare" />
         <item itemvalue="Application.StringSample" />
         <item itemvalue="Application.Calculator" />
-        <item itemvalue="Application.CustomException" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -149,5 +155,43 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="653" y="234" key="#com.intellij.ide.util.MemberChooser" timestamp="1575025052942">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="653" y="234" key="#com.intellij.ide.util.MemberChooser/0.0.1680.1050@0.0.1680.1050" timestamp="1575025052942" />
+    <state x="528" y="230" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1575021375482">
+      <screen x="0" y="23" width="1680" height="945" />
+    </state>
+    <state x="528" y="230" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.23.1680.945@0.23.1680.945" timestamp="1575021375482" />
+    <state width="1638" height="268" key="GridCell.Tab.0.bottom" timestamp="1575022787300">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="268" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1575022787300" />
+    <state width="1638" height="268" key="GridCell.Tab.0.center" timestamp="1575022787299">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="268" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1575022787299" />
+    <state width="1638" height="268" key="GridCell.Tab.0.left" timestamp="1575022787298">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="268" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1575022787298" />
+    <state width="1638" height="268" key="GridCell.Tab.0.right" timestamp="1575022787299">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="268" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1575022787299" />
+    <state x="328" y="105" key="SettingsEditor" timestamp="1575025107552">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="328" y="105" key="SettingsEditor/0.0.1680.1050@0.0.1680.1050" timestamp="1575025107552" />
+    <state x="517" y="328" key="com.intellij.ide.util.TipDialog" timestamp="1575021394563">
+      <screen x="0" y="23" width="1680" height="945" />
+    </state>
+    <state x="517" y="328" key="com.intellij.ide.util.TipDialog/0.23.1680.945@0.23.1680.945" timestamp="1575021394563" />
+    <state x="505" y="233" width="670" height="676" key="search.everywhere.popup" timestamp="1575024876941">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="505" y="233" width="670" height="676" key="search.everywhere.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1575024876941" />
   </component>
 </project>
