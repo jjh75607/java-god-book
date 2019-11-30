@@ -166,6 +166,10 @@
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="304" y="186" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1575026041229" />
+    <state x="552" y="324" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1575106245202">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="552" y="324" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1680.1050@0.0.1680.1050" timestamp="1575106245202" />
     <state x="653" y="234" key="#com.intellij.ide.util.MemberChooser" timestamp="1575028543631">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
@@ -214,9 +218,9 @@
       <screen x="0" y="23" width="1680" height="945" />
     </state>
     <state x="517" y="328" key="com.intellij.ide.util.TipDialog/0.23.1680.945@0.23.1680.945" timestamp="1575021394563" />
-    <state x="505" y="233" width="670" height="676" key="search.everywhere.popup" timestamp="1575103396475">
+    <state x="505" y="233" width="670" height="676" key="search.everywhere.popup" timestamp="1575107474942">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state x="505" y="233" width="670" height="676" key="search.everywhere.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1575103396475" />
+    <state x="505" y="233" width="670" height="676" key="search.everywhere.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1575107474942" />
   </component>
 </project>
